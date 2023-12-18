@@ -1,0 +1,54 @@
+
+.popup-overlay {
+  position: relative;
+  /* width: 300px !important; */
+  /* transform: translate(-50% , -50%) !important; */
+  padding: 40px;
+  padding-top: 50px;
+  background-color: rgba(209, 209, 209, 0.781);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+}
+.react-confirm-alert-overlay {
+  background: rgba(0, 0, 0, 0.7);
+  
+}
+.poptitle{
+  display: inline-block;
+  color: white;
+  margin-right: 50px;
+}
+.popup-overlay .nav-link{
+  text-transform: uppercase;
+  min-width: max-content !important;
+  display: inline-block !important;
+  background-color: #307abf !important;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 35px !important;
+}
+.popup-overlay .popclose{
+  border:none;
+  color: #307abf ;
+  background: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 15px;
+}
+@media(max-width:778px){
+  .popup-overlay{
+      width: 85%;
+      margin: auto;
+      padding: 20px;
+      padding-top: 30px;
+  }
+  .popup-overlay h5{
+      margin-right: 0;
+  }
+  .popup-overlay .nav-link{
+      margin-top: 15px;
+      display: block;
+      width: 100%;
+  }
+}

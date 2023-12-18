@@ -1,0 +1,12 @@
+{
+    "admindashboardAllUsersMainTitle": "جميع المستخدمين",
+   "admindashboardAllUsersUserName": "اسم المستخدم",
+   "admindashboardAllUsersEmail": "لبريد الإلكتروني",
+   "admindashboardAllUsersCompany": "الشركة",
+   "admindashboardAllUsersDate": "التاريخ",
+   "admindashboardAllusersActions" :"الأحداث",
+
+   "admindashboardEditUser": "حرر",
+   "admindashboardDeleteUser": "حذف"
+
+}

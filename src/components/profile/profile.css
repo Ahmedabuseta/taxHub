@@ -1,0 +1,27 @@
+.profile{
+    background: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.profile .pen{
+    background: none;
+    border: none;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.profile .img{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.profile input{
+    border: none;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px;
+    width: 100%;
+}
+.profile .none{
+    display: none;
+}

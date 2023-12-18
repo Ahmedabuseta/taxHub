@@ -1,0 +1,17 @@
+{
+    "userdashBoardPersonalPapersMainTitle": "الأوراق الشخصية",
+    "userdashBoardPersonalPapersDocument":  "الوثيقة",
+    "userdashBoardPersonalPapersStatus" : "الحالة",
+    "userdashBoardPersonalPapersUploadDate":"تاريخ التحميل",
+    "userdashBoardPersonalPapersLastModified":"آخر تعديل",
+    "userdashBoardPersonalPapersActions":"الإجراءات",
+
+
+    "userdashBoardPersonalPapersTax card": "البطاقة الضريبية",
+    "userdashBoardPersonalPapersPersonalId": "الهوية الشخصية",
+    "userdashBoardPersonalPapersValid": "صالح",
+    "userdashBoardPersonalPapersCommericalRegister":"السجل التجاري",
+    "userdashBoardPersonalPapersNotValid": "غير صالح",
+    "userdashBoardPersonalPapersEstablishmentContract":"عقد التأسيس"
+
+}

@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .font_big{
+    font-size: 50px;
+    text-align: left;
+  }
+  .font_Philosopher , .font_big{
+    font-family: 'Philosopher', sans-serif;
+  }
+  .img{
+    width: 100%;
+  }
+  .Blogs_border {
+    min-height: 450px;
+    min-width: 30%;
+  }
+  
+  .line_blog{
+    line-height: 18px;
+  }
+  .pragrave{
+    text-align: left;
+  }

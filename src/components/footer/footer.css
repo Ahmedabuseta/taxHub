@@ -1,0 +1,26 @@
+.footer{
+    background: #0062FF;
+}
+.footer .line{
+    height: 1px;
+    width: 100%;
+    background: white;
+}
+.footer a{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    font-weight: 400;
+    font-size: large;
+}
+.footer a:focus{
+    color: white;
+}
+.footer h1{
+    font-family: 'Philosopher', sans-serif;;
+}
+@media(max-width:550px){
+    .footer .items a{
+        font-size: x-small;
+    }
+}

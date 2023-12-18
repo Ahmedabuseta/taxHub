@@ -1,0 +1,11 @@
+
+{
+    "addNewUderMainTitle": "إضافة مستخدم جديد",
+    "labelUserEmail": "البريد الإلكتروني للمستخدم",
+    "uerEmailPlaceHolderValue":"example@email.com",
+    "labelUserName": "اسم المستخدم",
+    "userNamePlaceHolder":"اكتب اسم مستخدم فريد",
+    "labelPassword": "كلمة المرور",
+    "labelRepeatPassword": "كرر كلمة المرور",
+    "createUser":"إنشاء مستخدم"
+}

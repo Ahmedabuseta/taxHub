@@ -1,0 +1,16 @@
+{
+    "userdashBoardPersonalPapersMainTitle": "personal papers",
+    "userdashBoardPersonalPapersDocument": "document",
+    "userdashBoardPersonalPapersStatus" : "status",
+    "userdashBoardPersonalPapersUploadDate":"upload date",
+    "userdashBoardPersonalPapersLastModified": "last modified",
+    "userdashBoardPersonalPapersActions":"actions",
+
+    "userdashBoardPersonalPaperstaxCard": "tax card",
+    "userdashBoardPersonalPapersPersonalId": "personalId",
+    "userdashBoardPersonalPapersValid": "valid",
+    "userdashBoardPersonalPapersCommericalRegister":"commerical register",
+    "userdashBoardPersonalPapersNotValid": "not valid",
+    "userdashBoardPersonalPapersEstablishmentContract":"establishment contract"
+
+}

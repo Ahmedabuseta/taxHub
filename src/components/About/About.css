@@ -1,0 +1,234 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'cizel',sans-serif;
+}
+
+
+
+
+.content-sectionone img {
+    margin: auto;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.content-sectionone {
+    margin-bottom: 50px;
+}
+
+
+.section-2{
+    /* width: 80%; */
+    margin: auto;
+}
+
+.container-fluid {
+    background-color: white;
+    padding: 2% 0;
+}
+.img-right{
+    position: relative;
+    top:1%;
+    right:-51%;
+}
+.card-left{
+    width: 20%;
+    margin-left: 350px;
+}
+.img-left{
+    position: relative;
+    top: 3%;
+    left:-100%;
+}
+.image-left ,.image-right{
+    width: 410px;
+}
+.title-left{
+    width: 70%;
+    margin-left: -80px;
+}
+.img-card{
+    border-radius: 35px;
+
+}
+
+
+.card-one {
+    width: 53%;
+    height: 40vh;
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 5%;
+
+}
+
+.Bookkeeping {
+    margin-left: 17%;
+}
+
+.Investment {
+    margin-right: 17%;
+}
+
+.Bookkeeping-title {
+    margin-left: 5%;
+}
+
+.card-parent {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.card-parent .title {
+
+    width: 70%;
+    height: 100%;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.parent-title {
+    width: 50%;
+    padding: 0 10px;
+}
+
+.title-image {
+    width: 60%;
+    height: 90%;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    display: flex;
+    justify-content: end;
+
+}
+
+.card {
+    margin: auto;
+    border: none;
+}
+
+.card .img-fluid {
+    width: 900px;
+    height: 300px;
+}
+
+@media screen and (max-width: 967px){    
+    .languaga{
+        width: 50px;
+        text-transform: uppercase;
+    }
+
+    .img-left{
+        left:auto;
+        display: block;
+        width: 100px;
+    }
+
+.card-left{
+    margin-left:auto;
+}
+.img-left{
+    top: auto;
+    left:auto;
+
+}
+.image-left{
+    width: 43%;
+    position: relative;
+    left: 70%;
+    padding-top:340px ;
+}
+.title-left{
+   margin-top: 630px;    
+    margin-left:-100%;
+    width: 330px;
+}
+.title{
+    width: 100%;
+    margin-left: auto;
+}
+.OurMission-title{
+    margin-left: -65%;
+   }
+.image-right{
+    position: relative;
+
+    right: -67%;
+}
+.tow-card{
+    height:1600px;
+}
+
+
+.card-one{
+    background-color: rgb(204, 222, 255);
+}
+
+
+}
+
+@media screen and (max-width: 576px){
+
+.card-left{
+    margin-left:auto;
+}
+.img-left{
+    top: auto;
+    left:auto;
+}
+.image-left{
+    width: 43%;
+    position: relative;
+    left: 70%;
+    padding-top:30px ;
+}
+.title-left{
+   margin-top: 240px;    
+    margin-left:-100%;
+    width: 330px;
+}
+.title{
+    width: 100%;
+    margin-left: auto;
+}
+.OurMission-title{
+    margin-left: -65%;
+   }
+.image-right{
+    position: relative;
+    top: -70px;
+    right: -67%;
+}
+.tow-card{
+    height:1300px;
+}
+
+.card-one{
+    background-color: rgb(204, 222, 255);
+}
+
+}
+
+/********************************************************************/
+/*Questions*/
+.question-sec{
+    background-image: url(../images/3.png);
+    background-size:100% 100%;
+    background-position:center;
+    border-radius: 15px;
+  }
+
+/******************************************************************/
+
+
+
+
+
+
+   

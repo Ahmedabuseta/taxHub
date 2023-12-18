@@ -1,0 +1,66 @@
+.users{
+    background: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.users h3{
+    font-family: 'Philosopher', sans-serif;
+}
+.users table{
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 50px;
+    font-family: 'Philosopher';
+}
+.users tr {
+    border-bottom: 1px solid #E2E8F0;
+  }
+.users   th, td {
+    border-collapse: collapse;
+    padding: 30px;
+    color: #718096;
+  }
+  .users th{
+    color: black;
+    padding: 10px 30px;
+    font-weight: 400;
+  }
+.users .thead{
+    background: #E2E8F0;;
+}
+.users table .red{
+    color: #EC0B0B;
+}
+.users table .green{
+    color: #099C0F;
+}
+.users input{
+    border: 1px solid #E2E8F0;
+    border-radius: 4px;
+    padding: 10px;
+}
+.users .user-form{
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 80%;
+    margin: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+}
+.user-form input[type="password"]{
+    width: 100%;
+}
+.user-form .create{
+    border: none;
+    border-radius: 20px;
+    background: #0062FF;
+    color: white;
+    width: fit-content;
+}
+@media(max-width:550px){
+    .screen{
+        display: none;
+    }
+}

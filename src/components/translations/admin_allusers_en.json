@@ -1,0 +1,12 @@
+{
+    "admindashboardAllUsersMainTitle": "add new user",
+   "admindashboardAllUsersUserName": "user name",
+   "admindashboardAllUsersEmail": "email",
+   "admindashboardAllUsersCompany": "company",
+   "admindashboardAllUsersDate": "date",
+   "admindashboardAllusersActions" :"actions",
+
+   "admindashboardEditUser": "edit",
+   "admindashboardDeleteUser": "delete"
+
+}

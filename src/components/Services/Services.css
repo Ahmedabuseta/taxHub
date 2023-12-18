@@ -1,0 +1,327 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.left-nav .logo {
+    width: 60px;
+    margin: 0px 90px;
+    font-size: 30px;
+    font-style: oblique;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.ul1 {
+    margin-right: 130px;
+    font-size: 21px;
+    margin: auto;
+}
+
+.ul1 li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.ul1 li a {
+    text-decoration: none;
+    color: black;
+}
+
+.ul1 li a:focus {
+    color: cornflowerblue;
+}
+
+.right-nav .login ul {
+    margin-right: 20px;
+    margin-top: 10px;
+
+}
+
+.right-nav .login ul li {
+    display: inline-block;
+    margin: 0px 10px;
+    font-size: 23px;
+}
+
+.right-nav .login ul li a {
+    text-decoration: none;
+    border: solid 1px cornflowerblue;
+    padding: 3px 18px;
+    border-radius: 25px;
+}
+
+.signup-btn {
+    background-color: rgb(3, 91, 255);
+    color: aliceblue;
+}
+
+.services-line {
+    width: 100%;
+    height: 3px;
+    background-color: cornflowerblue;
+}
+
+.servicess {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.servicess h2 {
+    font-size: 55px;
+}
+
+.servicess h5 {
+    color: rgb(146, 146, 146);
+}
+
+.container-fluid {
+    background-color: rgb(204, 222, 255);
+    padding: 2% 0;
+}
+
+.img-right {
+    position: relative;
+    top: 1%;
+    right: -51%;
+}
+
+.card-left {
+    width: 20%;
+    margin-left: 350px;
+}
+
+.img-left {
+    position: relative;
+    top: 3%;
+    left: -80%;
+}
+
+.image-left,
+.image-right {
+    width: 410px;
+}
+
+.title-left {
+    width: 70%;
+    margin-left: -130px;
+}
+
+.img-card {
+    border-radius: 35px;
+
+}
+
+.card-info {
+    margin: 50px 0;
+    width: 60%;
+}
+
+
+
+/* //////////////////////////////////////////////////////////////////// */
+.card-one {
+    width: 53%;
+    height: 40vh;
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 5%;
+
+}
+
+.Bookkeeping {
+    margin-left: 17%;
+}
+
+.Investment {
+    margin-right: 17%;
+}
+
+.Bookkeeping-title {
+    margin-left: 5%;
+}
+
+.card-parent {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.card-parent .title {
+
+    width: 70%;
+    height: 100%;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.parent-title {
+    width: 50%;
+    padding: 0 10px;
+}
+
+.title-image {
+    width: 60%;
+    height: 90%;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    display: flex;
+    justify-content: end;
+
+}
+
+.card {
+    margin: auto;
+    border: none;
+}
+
+.card .img-fluid {
+    width: 900px;
+    height: 300px;
+}
+
+@media screen and (max-width: 967px) {
+    .languaga {
+        width: 50px;
+        text-transform: uppercase;
+    }
+
+    .img-left {
+
+        left: auto;
+        display: block;
+        width: 100vh;
+    }
+
+    .servicess h2 {
+        font-size: 27px;
+    }
+
+    .servicess h5 {
+        color: rgb(146, 146, 146);
+        font-size: 16px;
+    }
+
+    .card-left {
+        margin-left: auto;
+    }
+
+    .img-left {
+        top: auto;
+        left: auto;
+
+    }
+
+    .image-left {
+        width: 43%;
+        position: relative;
+        left: 70%;
+        padding-top: 340px;
+    }
+
+    .title-left {
+        margin-top: 630px;
+        margin-left: -100%;
+        width: 330px;
+    }
+
+    .title {
+        width: 100%;
+        margin-left: auto;
+    }
+
+    .Bookkeeping-title {
+        margin-left: -65%;
+    }
+
+    .image-right {
+        position: relative;
+
+        right: -67%;
+    }
+
+    .tow-card {
+        height: 1600px;
+    }
+
+
+    .card-one {
+        background-color: rgb(204, 222, 255);
+    }
+
+}
+
+
+@media screen and (max-width: 576px) {
+    .servicess h2 {
+        width: 300px;
+        margin-left: -66px;
+        font-size: 45px;
+    }
+
+    .servicess h5 {
+        color: rgb(146, 146, 146);
+        width: 350px;
+        margin-left: -96px;
+
+        font-size: 16px;
+    }
+
+    .card-body {
+        text-align: center;
+        margin: auto;
+    }
+
+    .card-left {
+        margin-left: auto;
+    }
+
+    .img-left {
+        top: auto;
+        left: auto;
+    }
+
+    .image-left {
+        width: 43%;
+        position: relative;
+        left: 70%;
+        padding-top: 30px;
+    }
+
+    .title-left {
+        margin-top: 240px;
+        margin-left: -100%;
+        width: 330px;
+    }
+
+    .title {
+        width: 100%;
+        margin-left: auto;
+    }
+
+    .Bookkeeping-title {
+        margin-left: -65%;
+    }
+
+    .image-right {
+        position: relative;
+        top: -70px;
+        right: -67%;
+    }
+
+    .tow-card {
+        height: 1300px;
+    }
+
+    .card-one {
+        background-color: rgb(204, 222, 255);
+    }
+
+}

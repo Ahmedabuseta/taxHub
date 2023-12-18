@@ -1,0 +1,72 @@
+.blogs input,textarea{
+    border: 1px solid #E2E8F0;
+    border-radius: 4px;
+    padding: 10px;
+}
+.blogs{
+    background: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.blogs h3{
+    font-family: 'Philosopher', sans-serif;
+}
+.blogs .blog{
+    display: inline-block;
+    width: min-content;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.blogs .blog h5{
+    font-family: 'Philosopher', sans-serif;
+    padding: 0px 15px;
+}
+.blogs .blog p{
+    font-size: 12px;
+    text-align: justify;
+    padding: 0px 15px;
+    color: #585858;
+}
+.blogs .blog .read{
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid black;
+}
+.blogs .blog .edit{
+    border: none;
+    background: none;
+    color: #585858;
+    font-family: 'Philosopher', sans-serif;
+}
+.blogs .blog .delete{
+    border: none;
+    background: none;
+    color: #EC0B0B;
+    font-family: 'Philosopher', sans-serif;
+}
+.blogs .blogparent{
+    column-gap: 15px;
+}
+.blogs .blog-form{
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 80%;
+    margin: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+}
+.blog-form .create{
+    border: none;
+    border-radius: 20px;
+    background: #0062FF;
+    color: white;
+    width: fit-content;
+}
+.blog-form .upload{
+    border: 1px solid #E2E8F0;
+    border-radius: 4px;
+    padding: 10px;
+}

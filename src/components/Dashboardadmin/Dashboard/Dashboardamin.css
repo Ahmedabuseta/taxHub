@@ -1,0 +1,69 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Philosopher&family=Rye&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    min-height: 45vh;
+    background: rgb(244, 250, 255);
+}
+.main .side{
+    background: #0062FF;
+    width: 90%;
+    border-radius: 0 0 10px 10px;
+    margin-bottom: 15px;
+}
+.main .side h3{
+    color: white;
+}
+.main .dashitems a{
+    padding-bottom: 2px;
+    color: white;
+    display: block;
+    text-decoration: none;
+    font-weight: 300;
+}
+.main .dashitems .header{
+    font-weight: 400;
+    font-size: x-large;
+    font-family: 'Philosopher', sans-serif;
+}
+.main .dashitems a:focus{
+    text-decoration: underline;
+}
+.main .logout{
+    width: 100%;
+    background: black;
+    text-align: center;
+    border-radius: 10px;
+}
+.main .logout a{
+    color: white;
+    font-size: x-large;
+    font-weight: 400;
+    text-decoration: none;
+}
+.main .side h3{
+    font-family: 'Philosopher', sans-serif;;
+}
+.main .dropside{
+    display: none;
+}
+@media(max-width:1200px){
+    .main{
+        min-height: 61vh;
+    }
+    .main .side{
+        display: none;
+    }
+    .main .dropside{
+        display: block;
+    }
+    .main .dropside .links a{
+        text-decoration: none;
+        color: black;
+        font-weight: 500;
+
+    }
+} */

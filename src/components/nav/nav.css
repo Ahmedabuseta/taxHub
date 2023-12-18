@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&family=Rye&display=swap');
+.navbar{
+    border-bottom: 2px solid #0062FF;
+}
+.navbar h1{
+    font-family: Philosopher;
+}
+.navbar .items a{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    font-weight: 500;
+    font-size: large;
+}
+.navbar .items a:focus{
+    color: #0062FF;
+}
+.bg-light1{
+    background: none;
+}
+.navbar select {
+    border:0px;
+    outline:0px;
+ }
+@media(max-width:550px){
+    .navbar .items a{
+        font-size: small;
+    }
+}

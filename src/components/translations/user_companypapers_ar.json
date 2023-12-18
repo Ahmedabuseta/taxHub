@@ -1,0 +1,16 @@
+{
+    "userdashboardCompanyPapersMainTitle": "company papers",
+    "userdashboardCompanyPapersDocument": "document",
+    "userdashboardCompanyPapersStatus" : "status",
+    "userdashboardCompanyPapersUploadDate":"upload date",
+    "userdashboardCompanyPapersLastModified": "last modified",
+    "userdashboardCompanyPapersActions":"Actions",
+
+    "userdashboardCompanyPapersWithholdTax":"withhold tax",
+    "userdashboardCompanyPapersPayrollTax": "payroll tax",
+    "userdashboardCompanyPapersAnnualIncom": "annual incom",
+    "userdashboardCompanyPapersAnnualPalance": "annual balance",
+    "userdashboardCompanyPapersValid": "valid",
+    "userdashboardCompanyPapersNotValid": "notValid"
+
+}

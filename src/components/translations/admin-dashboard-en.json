@@ -1,0 +1,16 @@
+{
+    "admindashBoardMainTitle": "dashBoard",
+    "admindashBoardUsers": "users",
+    "admindashBoardAllUsers": "all users",
+    "admindashBoardAddNewUser":"add new",
+    "admindashBoardBlogs": "blogs",
+    "admindashBoardAllBlogs": "allBlogs",
+    "admindashBoardAddNewBlog":"add new",
+    "admindashBoardServices":"services",
+    "admindashBoardUnread": "unread",
+    "admindashBoardOngoing": "ongoing",
+    "admindashBoardAllServices": "all services",
+    "admindashBoardAnalytics":"analytics",
+    "admindashBoardSettings": "settings",
+    "admindashBoardLogout": "logout"
+}

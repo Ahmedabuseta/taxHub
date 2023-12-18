@@ -1,0 +1,16 @@
+{
+    "userdashboardCompanyPapersMainTitle": "أوراق الشركة",
+    "userdashboardCompanyPapersDocument": "الوثيقة",
+    "userdashboardCompanyPapersStatus" : "الحالة",
+    "userdashboardCompanyPapersUploadDate":"تاريخ التحميل",
+    "userdashboardCompanyPapersLastModified": "آخر تعديل",
+    "userdashboardCompanyPapersActions":"الأحداث",
+
+    "userdashboardCompanyPapersWithholdTax":"ضريبة الاستقطاع",
+    "userdashboardCompanyPapersPayrollTax": "ضريبة الرواتب",
+    "userdashboardCompanyPapersAnnualIncom": "الدخل السنوي",
+    "userdashboardCompanyPapersAnnualbalance": "الرصيد السنوي",
+    "userdashboardCompanyPapersValid": "صالح",
+    "userdashboardCompanyPapersNotValid": "غير صالح"
+
+}

@@ -1,0 +1,14 @@
+{
+    "admindashboardAllservicesMainTitle": "جميع الخدمات",
+   "admindashboardAllservicesService": "الخدمة",
+   "admindashboardAllservicesSerialCode": "الرمز التسلسلي",
+   "admindashboardAllservicesUser": "المستخدم",
+   "admindashboardAllservicesDate": "التاريخ",
+   "admindashboardAllservicesAction" :"الأحداث",
+
+
+   "admindashboardAllservicesServiceName": "لوريم إيبسوم",
+   "admindashboardAllservicesAddMileStone": "إضافة حدث رئيسي",
+   "admindashboardAllservicesDetails": "التفاصيل",
+   "admindashboardAllservicesCompleted": "مكتمل"
+}

@@ -1,0 +1,10 @@
+{
+    "addNewUderMainTitle": "add new user",
+    "labelUserEmail": "user email",
+    "uerEmailPlaceHolderValue":"example@email.com",
+    "labelUserName": "username",
+    "userNamePlaceHolder":"type unique username",
+    "labelPassword": "Password",
+    "labelRepeatPassword": "RepeatPassword",
+    "createUser":" create user"
+    }

@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .left-nav .logo {
+    width: 60px;
+    margin: 0px 90px;
+    font-size: 30px;
+    font-style: oblique;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+ 
+.ul1{
+    margin-right:130px ;
+    font-size: 21px;
+    margin: auto;
+}
+.ul1 li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+.ul1 li a{
+    text-decoration: none;
+    color: black;
+}
+.ul1  li a:focus {
+    color:cornflowerblue;
+}
+
+.right-nav .login ul {
+    margin-right: 20px;
+    margin-top: 10px; 
+
+  }
+  .right-nav .login ul li{
+    display: inline-block;
+    margin: 0px 10px;
+    font-size: 23px;
+  }
+  .right-nav .login ul li a{
+      text-decoration: none;
+      border: solid 1px cornflowerblue;
+      padding:3px 18px;
+      border-radius: 25px;
+  }
+  .signup-btn{
+    background-color: rgb(3, 91, 255);
+    color: aliceblue;
+  }
+  .contact-line{
+    width: 100%;
+    height: 3px;   
+    background-color:cornflowerblue;
+} 
+.contact-us{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.contact-us h2{
+    font-size:55px;
+}
+.contact-us h5{
+    color: rgb(146, 146, 146);
+}
+.form-contact{
+    border: solid 1px rgb(228, 228, 228);
+    border-radius: 20px;
+    padding: 20px;
+}
+label{
+    margin-bottom:10px ;
+}
+.input{
+    box-shadow: 1px 1px 1px  1px rgb(228, 228, 228);
+
+}
+.input2{
+    margin-left: 20px;
+}
+.input3{
+    display: grid;
+
+    margin-right: 300px;
+}
+.row1 {
+    display: inline-block;
+    width: 45%;
+    margin: 0 25px;
+}
+.row2 {
+    display: inline-flex;
+
+    margin: 0 26px;
+}
+button.send-now{
+    width: 180px;
+    height: 35px; 
+    margin-left: 40%;
+    border-radius: 40px;
+}
+.languaga{
+    border:none !important;
+}
+
+.h2-login{
+    font-size: 55px;
+    color:cornflowerblue ;
+    font-weight: bold;
+}
+.input4{
+    width: 96%;
+    margin-left: 2%;
+}
+
+@media screen and (max-width: 1150px){    
+    .form-row{
+        width:48%;
+        margin: auto;
+    }
+    .languaga{
+        width: 48px;
+        text-transform: uppercase;
+    }
+}
+@media screen and (max-width:990px) {
+    .form-row{
+        width: 100%;
+        margin: auto;
+    }
+}
+@media screen and (max-width: 560px) {
+    .form-row{
+        display:block;
+        width: 100%;
+        margin: auto;
+    }
+    .languaga{
+        width: 48px;
+        text-transform: uppercase;
+    }
+    button.send-now{
+        margin-left: 23%;
+    }
+    .input2{
+        margin-left: 0;
+    }
+}

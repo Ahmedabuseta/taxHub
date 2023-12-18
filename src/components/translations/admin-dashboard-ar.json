@@ -1,0 +1,16 @@
+{
+    "admindashBoardMainTitle":  "لوحه القياده",
+    "admindashBoardUsers": "المستخدمين",
+    "admindashBoardAllUsers": "جميع المستخدمين",
+    "admindashBoardAddNewUser":"إضافة مستخدم جديد",
+    "admindashBoardBlogs": "المدونات",
+    "admindashBoardAllBlogs": "جميع المدونات",
+    "admindashBoardAddNewBlog":"إضافة مدونة جديدة",
+    "admindashBoardServices":"الخدمات",
+    "admindashBoardUnread": "غير المقروءة",
+    "admindashBoardOngoingServicesUser":"الخدمات الجارية",
+    "admindashBoardAllServices": "جميع الخدمات",
+    "admindashBoardAnalytics":"تحليلات",
+    "admindashBoardSettings": "الإعدادات",
+    "admindashBoardLogout": "تسجيل الخروج "
+}

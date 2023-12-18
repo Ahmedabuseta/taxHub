@@ -1,0 +1,12 @@
+{
+    "userdashBoardMainTitle": "dashBoard",
+    "userdashBoardpapers": "papers",
+    "userdashBoardPersonalPapers": "personal papers",
+    "userdashBoardCompanyPapers": "company papers",
+    "userdashBoardServices": "all services",
+    "userdashBoardRequestNewService":"request new service",
+    "userdashBoardOngoingServicesUser":"ongoing services",
+    "userdashBoardAllServicesUser": "all services",
+    "userdashBoardSettings": "settings",
+    "userdashBoardLogout": "Logout"
+}

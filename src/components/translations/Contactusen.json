@@ -1,0 +1,25 @@
+{
+    "ContactUsTitle": "Contact Us",
+    "ContactUsDescription": "Tax Hub sees itself as a partner to each of its clients - supporting and providing reliable and intelligent business solutions and maintaining a dynamic professional relationship",
+    
+    "ContactMessage": " Message",
+    "ContactOffice": "Office",
+    "ContactEmailLabel": "Email",
+    "ContactPhoneLabel": "Phone",
+    "ContactSendMessage": "Send me",
+    "ExploreLatestBlogs": "Explore our Latest Blogs",
+    "ReadMore": "Read More",
+
+
+
+      "InputLabelName": "Name",
+      "InputLabelTitle": "Title",
+      "InputLabelEmail": "Email",
+      "InputLabelSubject": "Subject",
+      "InputPlaceholderName": "Full Name",
+      "InputPlaceholderTitle": "Job Title",
+      "InputPlaceholderEmail": "example@gmail.com",
+      "InputPlaceholderSubject": "About Subject"
+
+
+  }

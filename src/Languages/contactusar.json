@@ -1,0 +1,25 @@
+{
+    "ContactUsTitle": "اتصل بنا",
+    "ContactUsDescription": "ترى Tax Hub نفسها شريكًا لكل من عملائها - داعمة وتقدم حلول أعمال موثوقة وذكية وتحافظ على علاقة مهنية ديناميكية",
+    "ContactMessage": "الرسالة",
+    "ContactOffice": "مكتب",
+  "ContactEmailLabel": "البريد الإلكتروني",
+  "ContactPhoneLabel": "الهاتف",
+  "ContactSendMessage": "أرسل لي",
+  "ExploreLatestBlogs": "ستكشف أحدث مدوناتنا",
+  "ReadMore": "اقرأ المزيد",
+
+
+
+
+  "InputLabelName": "الاسم",
+  "InputLabelTitle": "اللقب",
+  "InputLabelEmail": "البريد الإلكتروني",
+  "InputLabelSubject": "الموضوع",
+  "InputPlaceholderName": "الاسم الكامل",
+  "InputPlaceholderTitle": "الوظيفة",
+  "InputPlaceholderEmail": "example@gmail.com",
+  "InputPlaceholderSubject": "حول الموضوع"
+
+
+}
