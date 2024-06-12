@@ -28,7 +28,7 @@ const router = createBrowserRouter(
         <Route path="/dashbodrd" element={<Layoutdashboard/>}> */}
         {/* <Route index element={<Users/>}/> */}
         {/* </Route> */}
-        <Route path="/home" element={<Layout/>}>
+        <Route path="/" element={<Layout/>}>
             <Route index element={<Homepage/>}/>
             <Route path="about" element={<Aboutpage/>}/>
             <Route path="services" element={<Servicess/>}/>

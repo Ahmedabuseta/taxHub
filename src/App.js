@@ -46,7 +46,7 @@ function App() {
           <Route path='blog' element={<Projectblog/>}/>
         </Route>
 
-        {role === "user" && <Route path="/dashboard" element={<Main />}>
+        {role === "admin" && <Route path="/dashboard" element={<Main />}>
           <Route path="blogs" element={<Blogs />} />
           <Route path="addblog" element={<Addblog />} />
           <Route path="services" element={<Services />} />

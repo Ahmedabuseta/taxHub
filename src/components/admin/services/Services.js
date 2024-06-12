@@ -38,7 +38,7 @@ function Services(){
                         <Td>taxes</Td>
                         <Td>12-12-2024</Td>
                         <Td >
-                            <Link to={'/user/chat'}>
+                            <Link to={'/dashboard/chat'}>
                                 chat 
                             </Link> 
                         </Td>
@@ -50,7 +50,7 @@ function Services(){
                         <Td>taxes</Td>
                         <Td>12-12-2024</Td>
                         <Td >
-                        <Link to={'/user/chat'}>
+                        <Link to={'/dashboard/chat'}>
                                 chat 
                             </Link> 
                         </Td>
@@ -62,7 +62,7 @@ function Services(){
                         <Td>taxes</Td>
                         <Td>12-12-2024</Td>
                         <Td >
-                        <Link to={'/user/chat'}>
+                        <Link to={'/dashboard/chat'}>
                                 chat 
                             </Link> 
                         </Td>
@@ -74,7 +74,7 @@ function Services(){
                         <Td>taxes</Td>
                         <Td>12-12-2024</Td>
                         <Td >
-                            <Link to={'/user/chat'}>
+                            <Link to={'/dashboard/chat'}>
                                 chat 
                             </Link> 
                         </Td>

@@ -19,7 +19,7 @@ function HaveQ() {
                 >
                 <Link 
                 className="quest-btn btn btn-primary fs-5 rounded-pill p-3 ps-4 pe-4" 
-                to="/home/contactUs">
+                to="/contactUs">
                     {t("contact btn")}
                 </Link>
                 </button>
